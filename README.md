@@ -27,6 +27,10 @@ Tech stack: React, Vite, JavaScript, Node.js, Express, and any other technologie
 
 
 
+https://raahsetu-nitk.vercel.app/
+
+
+
 Setup instructions: How to run the frontend and backend.
 
 
